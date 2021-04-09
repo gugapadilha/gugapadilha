@@ -48,7 +48,7 @@
 
 
 [twitter]: https://twitter.com/guga_padilha_
-[facebook]: https://www.instagram.com/guga_padilha_/
+[facebook]: https://www.facebook.com/thegugationxd
 [instagram]: https://www.instagram.com/guga_padilha_/
 [linkedin]: https://www.linkedin.com/in/gustavo-padilha-4b6162208/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
