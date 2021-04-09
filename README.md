@@ -2,14 +2,16 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/GugaPadilha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGugaPadilha&screen_name=guga_padilha_)
 
-### I am a systems development student in Brazil!!
+### I am a systems developer student, I live
 
 ---
 
-- ⚡ I'm currently learning Kotlin
-- ⚡ I 
-- ⚡
-
+- ⚡ I'm currently learning Kotlin ⚡
+- 🔭 I'm always looking for new things to learn;
+- 👯 I’m looking to collaborate with other creators developers;
+- 🥅 2020 Goals: Contribute more to Open Source projects;
+- 🌱 Love Gym, Write, Read and Study.
+- 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Guga Padilha Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
