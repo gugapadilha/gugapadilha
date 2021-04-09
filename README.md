@@ -10,7 +10,7 @@
 - ⚡ I'm currently learning Flutter 
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other creators developers;
-- 🥅 2020 Goals: Contribute more to Open Source projects;
+- 🥅 2021 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
 ### Spotify Playing 🎧
