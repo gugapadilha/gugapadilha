@@ -1,9 +1,10 @@
 ### Hi there, I'm gugapadilha - 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/GugaPadilha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGugaPadilha&screen_name=guga_padilha_)
-https://linktr.ee/gugapadilha
+
 
 ### I am a systems developer student, I live in Brazil!
+https://linktr.ee/gugapadilha
 
 ---
 
