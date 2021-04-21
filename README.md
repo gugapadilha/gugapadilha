@@ -39,7 +39,6 @@ https://linktr.ee/gugapadilha
 </a>
 
 <br />
-<br />
 
 ---
 
