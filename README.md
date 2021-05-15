@@ -9,7 +9,7 @@ https://linktr.ee/gugapadilha
 ---
 
 - 📫 How to reach me guga.santospadilha@rede.ulbra.br
-- ⚡ I'm currently learning JS 
+- ⚡ I'm currently learning JS and WebDesign
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other creators developers;
 - 🥅 2021 Goals: Contribute more to Open Source projects;
