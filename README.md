@@ -38,7 +38,6 @@ https://linktr.ee/gugapadilha
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="48px" height="46px"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="32" height="42"/> </a> </p> 
 
-
 </a>
 <br />
 <br />
@@ -51,7 +50,6 @@ https://linktr.ee/gugapadilha
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gugapadilha&show_icons=true&hide_border=true" />
 
 </details>
-
 
 [twitter]: https://twitter.com/guga_padilha_
 [facebook]: https://www.facebook.com/thegugationxd
