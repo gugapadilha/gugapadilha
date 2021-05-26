@@ -39,7 +39,6 @@ https://linktr.ee/gugapadilha
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="32" height="42"/> </a> </p> 
 
 </a>
----
 
 
 [twitter]: https://twitter.com/guga_padilha_
