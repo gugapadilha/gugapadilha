@@ -40,6 +40,10 @@ https://linktr.ee/gugapadilha
 
 </a>
 
+<br>
+<br>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=gotham" alt="gugapadilha" />
+
 
 [twitter]: https://twitter.com/guga_padilha_
 [facebook]: https://www.facebook.com/thegugationxd
