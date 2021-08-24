@@ -37,9 +37,6 @@ https://linktr.ee/gugapadilha
 </a>
 
 <br>
-<br>
- 
-
 
 [twitter]: https://twitter.com/guga_padilha_
 [facebook]: https://www.facebook.com/thegugationxd
