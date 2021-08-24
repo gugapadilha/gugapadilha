@@ -50,6 +50,11 @@ https://linktr.ee/gugapadilha
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
+<br>
+        
+   <a href="https://github.com/gugapadilha/github-readme-stats"><img alt="gugapadilha Github Stats" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/gugapadilha/github-readme-stats"><img alt="gugapadilha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugapadilha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>   
+        
 <p align="center">
 <a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
