@@ -2,6 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/GugaPadilha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGugaPadilha&screen_name=guga_padilha_)
 
+<div>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gustavo-padilha-4b6162208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/guga_padilha_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> 
+<a href="https://api.whatsapp.com/send?phone=5551985160075" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a> 
+</div>
+
 
 ### I am a systems developer student, I live in Brazil!
 https://linktr.ee/gugapadilha
