@@ -1,7 +1,5 @@
 ### Hi there, I'm gugapadilha - 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gugapadilha&label=Profile%20views&color=0e75b6&style=flat" alt="guga" /> </p>
-
 <div>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gustavo-padilha-4b6162208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/guga_padilha_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> 
