@@ -7,7 +7,7 @@
 </div>
 
 
-### I am a systems developer student, I live in Brazil!
+### I'm a developer student, I live in Brazil!
 https://linktr.ee/gugapadilha
 
 ---
