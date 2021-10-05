@@ -15,7 +15,7 @@ https://linktr.ee/gugapadilha
 - 📫 How to reach me guga.santospadilha@rede.ulbra.br
 - ⚡ I'm currently learning Kotlin;
 - 🔭 I'm always looking for new things to learn;
-- 👯 I’m looking to collaborate with other creators developers;
+- 👯 I’m looking to collaborate with other developers;
 - 🥅 2021 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
