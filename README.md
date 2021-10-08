@@ -36,7 +36,6 @@ https://linktr.ee/gugapadilha
    </a>
 <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="48px" height="46px"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="32" height="42"/> </a> </p> 
 </a>
 
 [twitter]: https://twitter.com/guga_padilha_
