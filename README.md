@@ -30,12 +30,12 @@ https://linktr.ee/gugapadilha
 
 ### Languages and Tools :
 
-[<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
    <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="css3" width="50" height="50"/> 
    </a>
 <a href="https://kotlinlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="48px" height="46px"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="58px" height="46px"/> 
 </a>
 
 [twitter]: https://twitter.com/guga_padilha_
