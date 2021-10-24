@@ -19,7 +19,7 @@ https://linktr.ee/gugapadilha
 - 🥅 2021 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
-### Connect with me :
+### Connect with me:
 
 [<img align="left" alt="gugapadilha | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="gugapadilha | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
