@@ -38,7 +38,6 @@ https://linktr.ee/gugapadilha
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="84px" height="56px"/> 
 </a>
 
-
 [twitter]: https://twitter.com/guga_padilha_
 [facebook]: https://www.facebook.com/thegugationxd
 [instagram]: https://www.instagram.com/guga_padilha_/
