@@ -28,7 +28,8 @@ https://linktr.ee/gugapadilha
 <br />
 
 ### Languages and Tools :
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="js" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
 <a href="https://developer.android.com/studio" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/> 
 </a>
