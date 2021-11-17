@@ -28,8 +28,9 @@ https://linktr.ee/gugapadilha
 <br />
 
 ### Languages and Tools :
-
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanvalimcardoso&layout=compact&langs_count=7&theme=dark"/>
+  </p>
 <a href="https://developer.android.com/studio" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/> 
 </a>
