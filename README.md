@@ -40,7 +40,10 @@ https://linktr.ee/gugapadilha
 </a>
 <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="84px" height="56px"/> 
+</a>
 
+<br />
+        
 [twitter]: https://twitter.com/guga_padilha_
 [facebook]: https://www.facebook.com/thegugationxd
 [instagram]: https://www.instagram.com/guga_padilha_/
