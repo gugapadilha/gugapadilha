@@ -28,9 +28,7 @@ https://linktr.ee/gugapadilha
 <br />
 
 ### Languages and Tools :
-  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanvalimcardoso&layout=compact&langs_count=7&theme=dark"/>
-  </p>
+
 <a href="https://developer.android.com/studio" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/> 
 </a>
@@ -49,8 +47,9 @@ https://linktr.ee/gugapadilha
 
 <br>
         
-<a href="https://github.com/gugapadilha/github-readme-stats"><img alt="gugapadilha Github Stats" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/gugapadilha/github-readme-stats"><img alt="gugapadilha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugapadilha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>   
+  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanvalimcardoso&layout=compact&langs_count=7&theme=dark"/>
+  </p> 
         
 <p align="center">
 <a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
