@@ -28,11 +28,11 @@ https://linktr.ee/gugapadilha
 
 ### Languages and Tools :
 </a>
-<a href="https://www.java.com/pt-BR/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="js" width="55" height="55" />
-</a>
 <a href="https://www.javascript.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/>
+</a>
+<a href="https://www.java.com/pt-BR/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="js" width="55" height="55" />
 </a>
 <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/> 
