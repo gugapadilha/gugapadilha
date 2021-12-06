@@ -28,8 +28,6 @@ https://linktr.ee/gugapadilha
 
 ### Languages and Tools :
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lili-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 <a href="https://www.javascript.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
 </a>
@@ -42,7 +40,6 @@ https://linktr.ee/gugapadilha
 <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="84px" height="56px"/> 
 </a>
-  </div>
 
 
 <br />
