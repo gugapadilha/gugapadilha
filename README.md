@@ -30,7 +30,7 @@ https://linktr.ee/gugapadilha
 
 <div style="display: inline_block"><br>
 <a href="https://kotlinlang.org/" target="_blank"> 
-  <img align="center" alt="Lili-kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Lili-kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </a>
 <a href="https://www.javascript.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
