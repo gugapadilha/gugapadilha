@@ -38,7 +38,7 @@ https://linktr.ee/gugapadilha
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/> 
 </a>
 <a href="https://kotlinlang.org/" target="_blank">
-    <img align="center" alt="Lili-kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="84px" height="56px"/> 
 </a>
   
 
