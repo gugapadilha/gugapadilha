@@ -40,6 +40,7 @@ https://linktr.ee/gugapadilha
 <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="84px" height="56px"/> 
 </a>
+  <img align="center" alt="Lili-kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 
 <br />
         
