@@ -18,7 +18,6 @@ https://linktr.ee/gugapadilha
 - 🥅 2021 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
-<br />
 
 ### Languages and Tools :
 
