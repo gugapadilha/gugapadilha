@@ -18,12 +18,6 @@ https://linktr.ee/gugapadilha
 - 🥅 2021 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
-### Connect with me:
-
-[<img align="left" alt="gugapadilha | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="gugapadilha | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="gugapadilha | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools :
@@ -41,7 +35,6 @@ https://linktr.ee/gugapadilha
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="84px" height="66px"/> 
 </a>
 
-
 <br />
         
 [facebook]: https://www.facebook.com/thegugationxd
@@ -54,10 +47,10 @@ https://linktr.ee/gugapadilha
 
 <br>
         
-  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugapadilha&layout=compact&langs_count=7&theme=dark"/>
+  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?         username=gugapadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugapadilha&layout=compact&langs_count=7&theme=dark"/>
   </p> 
         
 <p align="center">
-<a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+     <a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?    username=gugapadilha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
