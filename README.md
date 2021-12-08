@@ -46,12 +46,12 @@ https://linktr.ee/gugapadilha
 
 <br>
         
-  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugapadilha&layout=compact&langs_count=7&theme=dark"/>
-  </p>
+</p>
+
   <br/>
 
-  <p align="center">
-<a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="center">
+     <a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
-  <br/>
