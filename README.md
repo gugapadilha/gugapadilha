@@ -29,7 +29,7 @@ https://linktr.ee/gugapadilha
 </a>
 <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="50"/> 
-</a>
+</a>  
 <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="84px" height="56px"/> 
 </a>
