@@ -28,12 +28,12 @@ https://linktr.ee/gugapadilha
 <a href="https://www.java.com/pt-BR/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="js" width="55" height="55" />
 </a>
-<a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="52"/> 
-</a>  
 <a href="https://kotlinlang.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="47" width="42" >
  </a>
+<a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="52"/> 
+</a>  
 
 <br />
         
