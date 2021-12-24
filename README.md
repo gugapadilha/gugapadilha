@@ -22,7 +22,7 @@ https://linktr.ee/gugapadilha
 ### Languages and Tools :
 
 <a href="https://kotlinlang.org/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin"  align="center"  height="45" width="44" >
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="45" width="44" >
  </a>
 <a href="https://www.javascript.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
