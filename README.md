@@ -32,7 +32,7 @@ https://linktr.ee/gugapadilha
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="58" height="54"/> 
 </a>  
 <a href="https://kotlinlang.org/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="40" width="42" >
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="47" width="42" >
  </a>
 <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="86px" height="60px"/> 
