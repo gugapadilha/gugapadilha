@@ -35,7 +35,7 @@ https://linktr.ee/gugapadilha
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="50"/> 
 </a>  
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N" width="100" height="100" />
+  <img align="right" alt="guga-pic" height="100" style="border-radius:45px;" src="https://pa1.narvii.com/6730/6aa5f0160df9de48ef128e15c602521d0132f936_hq.gif">
 
 <br />
         
