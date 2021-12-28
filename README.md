@@ -52,5 +52,5 @@ https://linktr.ee/gugapadilha
 </p>
 
 <p align="center">
-     <a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=theme=dark=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+     <a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=FFA500&color=FFA500&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
