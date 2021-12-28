@@ -48,7 +48,7 @@ https://linktr.ee/gugapadilha
 <br>
         
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugapadilha&layout=compact&langs_count=7&theme=dark-orange"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugapadilha&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 <p align="center">
