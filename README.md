@@ -35,6 +35,8 @@ https://linktr.ee/gugapadilha
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="50"/> 
 </a>  
 
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N" width="100" height="100" />
+
 <br />
         
 [facebook]: https://www.facebook.com/thegugationxd
