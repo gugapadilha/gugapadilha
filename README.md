@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm gugapadilha   <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> 
+<h1 align="center">Hi there, I'm Guga Padilha<img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> 
 
  <br>
  <br>
@@ -56,5 +56,5 @@ https://linktr.ee/gugapadilha
 </p>
 
 <p align="center">
-     <a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=000&color=FFA500&line=FFA500&point=FFA500&hide_border=true" /></a>
+   <a href="https://github.com/gugapadilha/github-readme-activity-graph"><img alt="gugapadilha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gugapadilha&bg_color=000&color=FFA500&line=FFA500&point=FFA500&hide_border=true" /></a>
 </p>
