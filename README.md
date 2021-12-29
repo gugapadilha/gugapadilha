@@ -1,4 +1,4 @@
-<h1 align="center" ### Hi there, I'm gugapadilha>   <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> 
+<h1 align="center">Hi there, I'm gugapadilha   <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> 
 
 <div>
  <h3 align="center"> <a href=https://www.linkedin.com/in/gustavo-padilha-4b6162208/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </h3>
