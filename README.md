@@ -12,7 +12,6 @@
 ### I'm a developer student, I live in Brazil 
 https://linktr.ee/gugapadilha
 
-
 ---
 
 - 📫 How to reach me guga.santospadilha@rede.ulbra.br
