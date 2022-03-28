@@ -21,9 +21,8 @@ https://linktr.ee/gugapadilha
 - 🥅 2022 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
-
+ 
 ### Languages and Tools :
-
 
 <a href="https://www.javascript.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
