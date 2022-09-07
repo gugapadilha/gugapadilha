@@ -24,9 +24,6 @@ https://linktr.ee/gugapadilha
  
 ### Languages and Tools :
 
-<a href="https://www.javascript.com/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
-</a>
 <a href="https://www.java.com/pt-BR/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="js" width="55" height="55" />
 </a>
@@ -40,7 +37,7 @@ https://linktr.ee/gugapadilha
     <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="60" height="50"/> 
 </a> 
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="60" height="50"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="55" height="45"/> 
 </a> 
 
 <br />
