@@ -28,14 +28,14 @@ https://linktr.ee/gugapadilha
 </a>  
 <a href="https://kotlinlang.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="44" width="42" >
- </a>
+</a>
 <a href="https://www.java.com/pt-BR/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="js" width="55" height="55" />
 </a>
-  <a href="https://www.figma.com/" target="_blank">
+<a href="https://www.figma.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="55" height="45"/> 
 </a> 
- <a href="https://gradle.org/" target="_blank">
+<a href="https://gradle.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="60" height="50"/> 
 </a> 
 
