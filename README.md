@@ -36,6 +36,12 @@ https://linktr.ee/gugapadilha
 <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="50"/> 
 </a>  
+ <a href="https://gradle.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="60" height="50"/> 
+</a> 
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="60" height="50"/> 
+</a> 
 
 <br />
         
