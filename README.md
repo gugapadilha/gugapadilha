@@ -50,7 +50,7 @@ https://linktr.ee/gugapadilha
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <br>   
- 
+
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugapadilha&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugapadilha&layout=compact&langs_count=7&theme=great-gatsby"/>
 </p>
