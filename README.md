@@ -8,16 +8,17 @@
 <a href="https://api.whatsapp.com/send?phone=5551985160075" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
 </div>
  
-### I'm a software developer/student, and I live in Brazil! 
+### I'm an Android Developer
 https://linktr.ee/gugapadilha
 
 ---
 
 - 📫 How to reach me guga.santospadilha@rede.ulbra.br
-- ⚡ I'm currently learning Kotlin / Android;
+- 🍀 I'm a passionate Android Developer;
+- ⚡ I'm currently learning Jetpack Compose;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other developers;
-- 🥅 2023 Goals: Contribute more to Open Source projects;
+- 🥅 2024 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
 ### Languages and Tools :
