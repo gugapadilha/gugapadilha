@@ -36,7 +36,7 @@ https://linktr.ee/gugapadilha
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="55" height="45"/> 
 </a> 
 <a href="https://gradle.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="60" height="50"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" alt="gradle" width="60" height="50"/> 
 </a> 
 
 <br />
