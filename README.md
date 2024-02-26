@@ -29,6 +29,9 @@ https://linktr.ee/gugapadilha
 <a href="https://kotlinlang.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="44" width="42" >
 </a>
+<a href="https://kotlinlang.org/" target="_blank">
+     <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg](https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg)" alt="compose" height="44" width="42" >
+</a>
 <a href="https://www.java.com/pt-BR/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="js" width="55" height="55" />
 </a>
