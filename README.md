@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Guga Padilha<img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> 
+<h1 align="center">Hi there, I'm Gustavo Padilha<img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> 
  <br>
  <br>
  
