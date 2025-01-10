@@ -18,7 +18,7 @@ https://linktr.ee/gugapadilha
 - ⚡ I'm currently learning Jetpack Compose;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other developers;
-- 🥅 2024 Goals: Contribute more to Open Source projects;
+- 🥅 2025 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
 ### Languages and Tools :
