@@ -44,7 +44,6 @@ https://linktr.ee/gugapadilha
 
 <br />
 <br />
-
        
 [facebook]: https://www.facebook.com/thegugationxd
 [instagram]: https://www.instagram.com/guga_padilha_/
