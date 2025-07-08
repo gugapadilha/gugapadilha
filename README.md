@@ -13,7 +13,7 @@ https://linktr.ee/gugapadilha
 
 ---
 
-- 📫 How to reach me guga.santospadilha@rede.ulbra.br
+- 📫 How to reach me guga.santospadilha@gmail.com
 - 🍀 I'm a passionate Android Developer;
 - ⚡ I'm currently learning Jetpack Compose;
 - 🔭 I'm always looking for new things to learn;
