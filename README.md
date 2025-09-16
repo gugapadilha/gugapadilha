@@ -9,7 +9,8 @@
 </div>
  
 ### I'm an Android Developer
-https://www.linkedin.com/notifications/?filter=all
+https://www.linkedin.com/in/gustavo-padilha-4b6162208/
+<br />
 https://linktr.ee/gugapadilha
 
 ---
