@@ -9,6 +9,7 @@
 </div>
  
 ### I'm an Android Developer
+https://www.linkedin.com/notifications/?filter=all
 https://linktr.ee/gugapadilha
 
 ---
