@@ -8,7 +8,9 @@
 <a href="https://api.whatsapp.com/send?phone=5551985160075" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
 </div>
  
-### I'm an Android Developer
+### I'm an Android Developer;
+### Analysis and System Development Degree (2021-2024) Top Mark Final Project: 🍀10🍀
+
 <br />
 https://linktr.ee/gugapadilha
 
@@ -22,7 +24,6 @@ https://linktr.ee/gugapadilha
 - 🥅 2025 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
-### Analysis and System Development Degree (2021-2024) Top Mark Final Project: 🍀10🍀
 
 ### Languages and Tools :
 
