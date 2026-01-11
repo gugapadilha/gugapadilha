@@ -22,6 +22,8 @@ https://linktr.ee/gugapadilha
 - 🥅 2025 Goals: Contribute more to Open Source projects;
 - 🌱 Love Gym, Write, Read and Study.
 
+### Analysis and System Development Degree (2021-2024) Top Mark Final Project: 🍀10🍀
+
 ### Languages and Tools :
 
 <a href="https://developer.android.com/studio" target="_blank">
