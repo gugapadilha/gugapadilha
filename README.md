@@ -8,7 +8,7 @@
 </div>
  
 ### I'm an Android Developer;
-### Analysis and System Development Degree (2021-2024) Top Mark Final Project: 🍀10🍀
+### Analysis and System Development Degree (2021-2024) Top Grade Final Project: 🍀10/10🍀
 
 <br />
 https://linktr.ee/gugapadilha
