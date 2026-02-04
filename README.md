@@ -7,7 +7,7 @@
 <a href="https://api.whatsapp.com/send?phone=5551985160075" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
 </div>
  
-### I'm an Android Developer;
+### I'm an Android / WEB Developer;
 ### Analysis and System Development Degree (2021-2024) Top Grade Final Project: 🍀10/10🍀
 
 <br />
