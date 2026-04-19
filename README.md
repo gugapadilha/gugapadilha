@@ -35,11 +35,9 @@ https://linktr.ee/gugapadilha
 <a href="https://kotlinlang.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="49" width="44" >
 <a href="https://kotlinlang.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" alt="compose" height="49" width="44" >
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" alt="compose" height="49" width="44" >
 <a href="https://www.java.com/pt-BR/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="js" width="55" height="55" />
-<a href="https://www.figma.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="55" height="45"/> 
 <a href="https://gradle.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" alt="gradle" width="60" height="50"/> 
 
